@@ -1,13 +1,13 @@
-package cod_cleancode;
+
+
+import javax.swing.JOptionPane;
 
 /**
  * Todos los metodos de la clase main.
  *
- * @autor Angel Castineira
+ * @author casty
  * @version 23/11/2022
  */
-
-import javax.swing.JOptionPane;
 public class Metodos {
     /**
      * introducir un numero por teclado
@@ -30,6 +30,12 @@ public class Metodos {
      */
     public final String MENSAJE_ACABASTE_INTENTOS = "Se han acabado el numero de intentos posibles";
 
+    /**
+     * constructor por defecto
+     */
+    public Metodos(){
+
+    }
     /**
      *Te pide numeros enteros.
      * @param mensaje: mensaje introducido por consola.

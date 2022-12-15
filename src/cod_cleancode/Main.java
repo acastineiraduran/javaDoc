@@ -1,18 +1,15 @@
-
-import cod_cleancode.Metodos;
-
 /**
  * Clase Main
  *
- * @autor Angel Castineira
+ * @author casty
  * @version 23.11.2022
  */
 public class Main {
 
     /**
-     * Metodo main
+     * metodo principal
      *
-     * @param args
+     * @param args: sentencias que ejecutan codigo
      */
     public static void main(String[] args) {
         
